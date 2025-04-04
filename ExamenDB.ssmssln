@@ -3,14 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Solution File, Format Version 20.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ExamenDB", "ExamenDB\ExamenDB.ssmssqlproj", "{8B19F590-1A46-461C-BE06-4030F7364D0A}"
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Recetas", "Recetas\Recetas.ssmssqlproj", "{7B87B91B-0C09-48A5-8BAF-1D80AEAA4D78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8B19F590-1A46-461C-BE06-4030F7364D0A}.Default|Default.ActiveCfg = Default
+		{7B87B91B-0C09-48A5-8BAF-1D80AEAA4D78}.Default|Default.ActiveCfg = Default
+		{0202BC0D-E247-4E3B-A3B9-6F0257E13A14}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
